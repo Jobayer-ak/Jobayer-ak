@@ -17,8 +17,5 @@ Skills: JavaScript, React.js, Next.js, TypeScript, MongoDB, Mongoose, Node.js, E
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Jobayer-ak)  
 
-![GitHub metrics](https://metrics.lecoq.io/Jobayer-ak)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Jobayer-ak)  
 
-![Profile views](https://gpvc.arturio.dev/Jobayer-ak)  
