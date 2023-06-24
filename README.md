@@ -3,7 +3,7 @@
 Highly motivated and passionate Junior MERN Stack Developer with a solid foundation in web development and a strong desire to expand skills and knowledge in building dynamic web applications. Proficient in MongoDB, Express.js, React, and Node.js, with a solid understanding of front-end and back-end development principles. Dedicated to delivering high-quality code and collaborating effectively within a team environment.
 
 
-- 🌱 I’m currently learning **Redux & Prisma**
+<!--- 🌱 I’m currently learning **Redux & Prisma**-->
 
 - 👨‍💻 All of my projects are available at [https://jobayer-portfolio.netlify.app/](https://jobayer-portfolio.netlify.app/)
 
