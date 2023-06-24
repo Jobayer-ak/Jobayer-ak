@@ -1,4 +1,4 @@
-### Hi there 👋, This is Md. Jobayer Akanda
+### Hello 👋, This is Md. Jobayer Akanda
 #### Web Programmer || MERN Stack Developer
 Highly motivated and passionate Junior MERN Stack Developer with a solid foundation in web development and a strong desire to expand skills and knowledge in building dynamic web applications. Proficient in MongoDB, Express.js, React, and Node.js, with a solid understanding of front-end and back-end development principles. Dedicated to delivering high-quality code and collaborating effectively within a team environment.
 
