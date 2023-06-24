@@ -9,7 +9,6 @@ Highly motivated and passionate Junior MERN Stack Developer with a solid foundat
 
 - 📫 How to reach me **jobayer.ak@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Jobayer#5783) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jobayer-ak) 
 
